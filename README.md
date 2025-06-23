@@ -1,4 +1,5 @@
 # MASS(Muscle-Actuated Skeletal System)
+这个repo里面包括了怎么绘制可以绘制的东西
 
 ![Teaser](png/Teaser.png)
 ## Abstract
